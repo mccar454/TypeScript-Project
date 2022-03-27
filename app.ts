@@ -1,1 +1,1 @@
-console.log('eric is really, really ugly!');
+console.log('eric is beautiful ugly!');

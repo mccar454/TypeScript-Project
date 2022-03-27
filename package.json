@@ -172,5 +172,13 @@
     "yargs-parser": "^18.1.3",
     "yeast": "^0.1.2",
     "xmlhttprequest-ssl": "^1.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccar454/TypeScript-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mccar454/TypeScript-Project/issues"
+  },
+  "homepage": "https://github.com/mccar454/TypeScript-Project#readme"
 }
